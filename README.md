@@ -2,10 +2,10 @@
 
 [과제 설명]
 
-cyclegan_horse2zebra_assign.ipynb 을 받아 ?인 부분을 채우시면 됩니다.
+1. download_cyclegan_dataset.sh 과 cyclegan_horse2zebra_assign.ipynb 을 같은 폴더에 받습니다.
+2. cyclegan_horse2zebra_assign.ipynb 의 ?인 부분을 채웁니다.
+3. 채운 ipynb의 모든 셀을 순서대로 실행해 줍니다.
 
 [제출]
 
-답을 적은 ipynb와 그 것을 실행시킨 결과들 (logs 폴더)을 함께 압축하여
-
-psh01087@gmail.com 로 보내주시면 됩니다
+ipynb 파일이 들어있는 폴더를 모두 압축하여 psh01087@gmail.com 로 보내주세요
