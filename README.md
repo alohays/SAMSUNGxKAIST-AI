@@ -1,10 +1,11 @@
-# SAMSUNGxKAIST-AI
+# SAMSUNGxKAIST-AI (07/31 과제)
 
 [과제 설명]
 
-이번 과제는 horse2zebra Dataset을 사용하여 CycleGAN을 학습시키는 것입니다. 다음은 horse2zebra Dataset의 예시 사진입니다.
+이번 과제는 horse2zebra Dataset을 사용하여 CycleGAN을 학습시키는 것입니다. 
+다음은 horse2zebra Dataset의 예시 사진입니다.
 
-![horse2zebra_sample.jpg](./horse2zebra_sample.jpg)
+<center><img src="./horse2zebra_sample.jpg"></center>
 
 
 과제를 하는 순서는 다음과 같습니다.
