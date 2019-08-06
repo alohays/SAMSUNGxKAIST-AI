@@ -30,7 +30,7 @@ ipynb 파일이 들어있는 폴더를 모두 압축하여 psh01087@gmail.com �
 
 오류가 뒤늦게 발견된 관계로 과제 기한은 12일까지로 하루 더 드리도록 하겠습니다. 죄송합니다.
 
-₩₩₩ python
+``` python
 
         # Translate from X to Y, check D_Y output
         G_out = G(X)
@@ -42,4 +42,4 @@ ipynb 파일이 들어있는 폴더를 모두 압축하여 psh01087@gmail.com �
         D_X_out = D_X(F_out)  # 수정전 : D_X_out = D_X(F_out.detach())
         F_gan_loss = mse_criterion(D_X_out, torch.ones_like(D_X_out).to(device))
         
-₩₩₩
+```
